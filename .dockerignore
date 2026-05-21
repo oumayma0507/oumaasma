@@ -1,0 +1,15 @@
+.git
+.next
+node_modules
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.*
+*.pem
+test-results
+playwright-report
+blob-report
+public/media
+tsconfig.tsbuildinfo
